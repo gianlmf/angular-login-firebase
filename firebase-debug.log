@@ -1,0 +1,65 @@
+[debug] [2023-12-15T19:28:24.400Z] ----------------------------------------------------------------------
+[debug] [2023-12-15T19:28:24.402Z] Command:       /home/jarvis/.nvm/versions/node/v20.10.0/bin/node /home/jarvis/.nvm/versions/node/v20.10.0/bin/firebase login
+[debug] [2023-12-15T19:28:24.402Z] CLI Version:   13.0.2
+[debug] [2023-12-15T19:28:24.402Z] Platform:      linux
+[debug] [2023-12-15T19:28:24.402Z] Node Version:  v20.10.0
+[debug] [2023-12-15T19:28:24.402Z] Time:          Fri Dec 15 2023 16:28:24 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-15T19:28:24.403Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-15T19:28:24.404Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2023-12-15T19:28:25.089Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-12-15T19:28:25.089Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=297012233&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-15T19:54:07.028Z] ----------------------------------------------------------------------
+[debug] [2023-12-15T19:54:07.033Z] Command:       /home/jarvis/.nvm/versions/node/v20.10.0/bin/node /home/jarvis/.nvm/versions/node/v20.10.0/bin/firebase login
+[debug] [2023-12-15T19:54:07.034Z] CLI Version:   13.0.2
+[debug] [2023-12-15T19:54:07.034Z] Platform:      linux
+[debug] [2023-12-15T19:54:07.034Z] Node Version:  v20.10.0
+[debug] [2023-12-15T19:54:07.035Z] Time:          Fri Dec 15 2023 16:54:07 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-15T19:54:07.035Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=538397955&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-15T19:56:00.189Z] ----------------------------------------------------------------------
+[debug] [2023-12-15T19:56:00.191Z] Command:       /home/jarvis/.nvm/versions/node/v20.10.0/bin/node /home/jarvis/.nvm/versions/node/v20.10.0/bin/firebase login
+[debug] [2023-12-15T19:56:00.192Z] CLI Version:   13.0.2
+[debug] [2023-12-15T19:56:00.192Z] Platform:      linux
+[debug] [2023-12-15T19:56:00.192Z] Node Version:  v20.10.0
+[debug] [2023-12-15T19:56:00.192Z] Time:          Fri Dec 15 2023 16:56:00 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-15T19:56:00.192Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=908509435&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-15T19:59:17.521Z] ----------------------------------------------------------------------
+[debug] [2023-12-15T19:59:17.523Z] Command:       /home/jarvis/.nvm/versions/node/v20.10.0/bin/node /home/jarvis/.nvm/versions/node/v20.10.0/bin/firebase login
+[debug] [2023-12-15T19:59:17.523Z] CLI Version:   13.0.2
+[debug] [2023-12-15T19:59:17.523Z] Platform:      linux
+[debug] [2023-12-15T19:59:17.523Z] Node Version:  v20.10.0
+[debug] [2023-12-15T19:59:17.524Z] Time:          Fri Dec 15 2023 16:59:17 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-15T19:59:17.524Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=407290436&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
